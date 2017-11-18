@@ -105,6 +105,7 @@ model {
                         exclude "video/nacl/"
                         exclude "video/pandora/"
                         exclude "video/psp/"
+                        exclude "video/qnx/"
                         exclude "video/raspberry/"
                         exclude "video/uikit/"
                         exclude "video/vivante/"
